@@ -13,3 +13,6 @@ class Fumante
 	end
 
 end
+
+fumante = Fumante.new("João", 23, 10, 4)
+fumante.calcularQtdGasto()
